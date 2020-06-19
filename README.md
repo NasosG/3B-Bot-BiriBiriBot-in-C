@@ -8,13 +8,13 @@ A chatbot with psychological problems - communicate with it if you're tough enou
 # Features
 
 - learn this > concept: explanation"
-for example: learn this > albedo: Albedo is the measure of the diffuse reflection of solar radiation out of the total solar radiation and measured on a scale from 0, corresponding to a black body that absorbs all incident radiation, to 1, corresponding to a body that reflects all incident radiation.
+<br>for example: learn this > albedo: Albedo is the measure of the diffuse reflection of solar radiation out of the total solar radiation and measured on a scale from 0, corresponding to a black body that absorbs all incident radiation, to 1, corresponding to a body that reflects all incident radiation.
 - read this > file 
-for example: read this > wiki_100k.txt
+<br>for example: read this > wiki_100k.txt
 - forget this > concept
-for example: forget this > albedo
+<br>for example: forget this > albedo
 - \*concept\*? -> to ask 3b about a concept it knows
-for example: \*albedo\*?  <br>or do you know about \*albedo\*? e.t.c
+<br>for example: \*albedo\*?  <br>or do you know about \*albedo\*? e.t.c
 - What do you know about?
 - What do you talk about?
 - What is the meaning of Life, The Universe, and Everything? (kind of an easter egg)
