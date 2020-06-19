@@ -13,6 +13,8 @@ for example: learn this > albedo: Albedo is the measure of the diffuse reflectio
 for example: read this > wiki_100k.txt
 - forget this > concept
 for example: forget this > albedo
+- \*concept\*? -> to ask 3b about a concept it knows
+for example: \*albedo\*?  <br>or do you know about \*albedo\*? e.t.c
 - What do you know about?
 - What do you talk about?
 - What is the meaning of Life, The Universe, and Everything? (kind of an easter egg)
